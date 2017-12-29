@@ -1,0 +1,25 @@
+{
+  "name": "BookStore",
+  "version": "1.0.0",
+  "description": "网上书城",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Staticqq/BookStore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Staticqq/BookStore/issues"
+  },
+  "homepage": "https://github.com/Staticqq/BookStore#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "vue": "^2.5.13",
+    "vue-router": "^3.0.1"
+  }
+}

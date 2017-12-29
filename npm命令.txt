@@ -1,0 +1,4 @@
+npm i jquery --save
+npm i vue --save
+npm i vue-router --save
+npm i
